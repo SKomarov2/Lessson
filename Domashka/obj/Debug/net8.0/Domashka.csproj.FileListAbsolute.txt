@@ -1,0 +1,14 @@
+F:\Komarov\Нужное\Lessson\Domashka\obj\Debug\net8.0\Domashka.GeneratedMSBuildEditorConfig.editorconfig
+F:\Komarov\Нужное\Lessson\Domashka\obj\Debug\net8.0\Domashka.AssemblyInfoInputs.cache
+F:\Komarov\Нужное\Lessson\Domashka\obj\Debug\net8.0\Domashka.AssemblyInfo.cs
+F:\Komarov\Нужное\Lessson\Domashka\obj\Debug\net8.0\Domashka.csproj.CoreCompileInputs.cache
+F:\Komarov\Нужное\Lessson\Domashka\bin\Debug\net8.0\Domashka.exe
+F:\Komarov\Нужное\Lessson\Domashka\bin\Debug\net8.0\Domashka.deps.json
+F:\Komarov\Нужное\Lessson\Domashka\bin\Debug\net8.0\Domashka.runtimeconfig.json
+F:\Komarov\Нужное\Lessson\Domashka\bin\Debug\net8.0\Domashka.dll
+F:\Komarov\Нужное\Lessson\Domashka\bin\Debug\net8.0\Domashka.pdb
+F:\Komarov\Нужное\Lessson\Domashka\obj\Debug\net8.0\Domashka.dll
+F:\Komarov\Нужное\Lessson\Domashka\obj\Debug\net8.0\refint\Domashka.dll
+F:\Komarov\Нужное\Lessson\Domashka\obj\Debug\net8.0\Domashka.pdb
+F:\Komarov\Нужное\Lessson\Domashka\obj\Debug\net8.0\Domashka.genruntimeconfig.cache
+F:\Komarov\Нужное\Lessson\Domashka\obj\Debug\net8.0\ref\Domashka.dll
